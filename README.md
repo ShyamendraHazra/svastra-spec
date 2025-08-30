@@ -3,5 +3,5 @@
 [claude](claude.md)
 [deepseek](deepseek.md)
 [gemini](gemini.md)
-[grok.md](grok.md)
+[grok](grok.md)
 
