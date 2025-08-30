@@ -5,3 +5,5 @@
 [gemini](gemini.md)
 [grok](grok.md)
 [Final (GPT)](gpt.md)
+
+[See prompt](original_prompt.md)
