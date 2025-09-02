@@ -4,7 +4,7 @@
 Sva (Swa) => Means self or own
 Stra => Means tool of weapon
 
-This language is supposed to be a personal tool creativity and freedom and strength
+This language is supposed to be a personal tool for creativity and freedom and strength
 
 ---
 ### These are the llm specific language specs and list of resources
