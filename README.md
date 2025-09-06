@@ -22,3 +22,9 @@ The Final gpt prompt is summerisation of all other llms but the individual specs
 [See prompt](original_prompt.md)
 
 ---
+
+### Resources to learn from and use as ref.
+
+[Learning Resources](learning_resources.md)
+
+---
