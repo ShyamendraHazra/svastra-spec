@@ -28,3 +28,9 @@ The Final gpt prompt is summerisation of all other llms but the individual specs
 [Learning Resources](learning_resources.md)
 
 ---
+
+### Latest formal Langauge spec.
+
+[SVR formal language definition](spec_evolution/svr_language_formal_spec-2.0.md)
+
+---
